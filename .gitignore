@@ -1,0 +1,5 @@
+# Ignore all files except .tf files
+*
+!*.tf
+!*.tfstate
+!*.tfstate.backup
